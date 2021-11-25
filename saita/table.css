@@ -1,0 +1,35 @@
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+ th {
+    border: 1px solid black;
+    padding: 16px;
+    text-align: center;
+    font-weight: bold ;
+    font-size: 30px;
+    color: rgb(15, 15, 15);
+    background-color: rgb(15, 199, 144);
+  }
+  td{
+      height: 300 px;
+      border: 1px solid black;
+      color: white;
+      font-size: 20px;
+      background-color: rgb(31, 30, 30);
+  }
+  table{
+    border: 2px rgb(0, 139, 46) black;
+    text-align: center;
+  }
+  .button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
